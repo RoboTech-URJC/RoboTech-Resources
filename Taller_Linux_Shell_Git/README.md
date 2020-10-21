@@ -4,7 +4,7 @@
 
 ## Descripción
 
-En este taller consta de dos partes:
+Este taller consta de dos partes:
 
 1º Parte -> Se explica como realizar la instalación de linux de diferentes formas (Maquina virtual / Wubi / Usb Booteable).
 
