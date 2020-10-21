@@ -1,6 +1,6 @@
 # TALLER DE INSTALACIÓN DE LINUX + SUPERVIVENCIA EN SHELL + GIT
 
-![alt text](https://github.com/RoboTech-URJC/RoboTech-Resources/Taller_Linux_Shell_Git/resources/MiniaturaLinuxShellGit.png)
+![alt text](https://github.com/RoboTech-URJC/RoboTech-Resources/blob/main/Taller_Linux_Shell_Git/resources/MiniaturaLinuxShellGit.png)
 
 ## Descripción
 
