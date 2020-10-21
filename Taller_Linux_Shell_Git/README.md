@@ -10,6 +10,8 @@ Este taller consta de dos partes:
 
 2º Parte -> Se enseñan comandos basicos de shell y un pequeño curso de git (Github y GitKraken).
 
+Link de descarga: https://drive.google.com/drive/u/3/folders/159vNsDFSsYV35rERHNQdc2wuFK06J9x7
+
 ## Videos
 
 1º Dia: https://www.youtube.com/watch?v=XHSm-7X_53s&t 
