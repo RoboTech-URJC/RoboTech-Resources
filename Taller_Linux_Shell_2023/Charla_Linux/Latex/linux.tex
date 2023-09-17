@@ -1,0 +1,213 @@
+\documentclass[10pt]{beamer}
+%Information to be included in the title page:
+\title{Taller de Instalación de Linux}
+\author{Robotech}
+\institute{URJC}
+\date{2023}
+\usetheme{Madrid}
+\usecolortheme{beaver}
+\usepackage{graphicx} %LaTeX package to import graphics
+\graphicspath{{images/}} %configuring the graphicx package
+\logo{\includegraphics[width=0.25\textwidth]{logo}\includegraphics[scale=0.2]{robotech}}
+
+\begin{document}
+	
+	\frame{\titlepage}
+	
+	\begin{frame}
+		\frametitle{Licencia}
+		(cc) 2018 Grupo de Sistemas y Comunicaciones.
+		\newline
+		\newline
+		(cc) 2023 Robotech.
+		\newline
+		\newline
+		Algunos derechos reservados. Este trabajo se entrega bajo la licencia Creative Commons Reconocimiento –NoComercial - SinObraDerivada (by-nc-nd). Para obtener la licencia completa, véase:
+		\newline
+		\newline
+		http://creativecommons.org/licenses/by-sa/2.1/es.También puede solicitarse a Creative Commons, 559 Nathan
+		\newline
+		\newline
+		Abbott Way, Stanford, California 94305, USA.
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{¿Quiénes somos?}
+		\begin{itemize}
+			\item Javier Izquierdo Hernández: \\
+			Estudiante de ingeniería robótica software (3º año).
+			\item Iker Peral del Pino: \\
+			Estudiante de ingeniería robótica software (3º año).
+			\item Alba Cruz Rodríguez: \\
+			Estudiante de ingeniería robótica software (3º año).
+		\end{itemize}
+		\vspace{20pt}
+		\begin{center}
+			\includegraphics[width=15 pt]{twitter} \hspace{5 pt}\includegraphics[width=15 pt]{instagram}\hspace{10 pt} @robotech\_urjc\\
+			
+			\includegraphics[width=15 pt]{mail} \hspace{10 pt} robotechurjc@gmail.com
+		\end{center}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Distribuciones de Linux}
+		Muchas diferentes distribuciones para diferentes necesidades. La mayoría de ellas Open Source.\\
+		\begin{center}
+			\includegraphics[width=0.5\textwidth]{linux_logo}
+		\end{center}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{¿Por qué Ubuntu?}
+		Por ROS2.\\
+		\begin{center}
+			\includegraphics[width=0.3\textwidth]{ros2}
+		\end{center}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Diferentes Escritorios. Sabores de Ubuntu}
+		\begin{itemize}
+			\item Gnome: Ubuntu estándar
+			\item KDE: Tuxedo Os 2, Kubuntu
+			\item Cinnamon: Mint, 
+			Ubuntu Cinnamon
+			\item Otros: Lubuntu, Ubuntu Budgie, 
+			Ubuntu MATE ...
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Requisitos previos}
+		\begin{itemize}
+			\item Espacio disponible de al menos 50 Gb. Recomendado 150-200 Gb.
+			\item  Usb de al meno 8 Gb vacio.
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Instalar Ubuntu desde Windows}
+		Descargar Ubuntu 22.04 LTS .iso: https://ubuntu.com/download/desktop\\
+		\includegraphics[width=0.7\textwidth]{ubuntu}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Crear un USB Live en Windows}
+		Instalar BalenaEtcher: https://etcher.balena.io\\
+		\begin{itemize}
+			\item Select image → El .iso descargado
+			\item Select drive → El usb que vamos a usar para la instalación (mínimo 8gb)
+			\item Flash!
+		\end{itemize}
+		\includegraphics[width=0.7\textwidth]{balena}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Iniciar Ubuntu}
+		\begin{enumerate}
+			\item Apagar el ordenador.
+			\item Mientras encendemos el ordenador pulsamos F2 o F7 (puede ser otra tecla, depende del fabricante) para acceder a la BIOS o al boot menu.
+			\item Seleccionamos arrancar desde el USB
+		\end{enumerate}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Iniciar Ubuntu}
+		Seleccionar \textbf{Install Ubuntu}. Si tienes NVIDIA a lo mejor tienes que seleccionar \textbf{(safe graphics)}.\\
+		
+		\includegraphics[width=0.7\textwidth]{install}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Instalar Ubuntu}
+		Seleccionar \textbf{Install Ubuntu} otra vez y dejarlo en \textbf{Inglés}\\
+		
+		\includegraphics[width=0.7\textwidth]{install2}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Instalar Ubuntu}
+		Seleccionar el tipo de instalación. Recomendamos la instalación normal.\\
+		Seleccionar la opción de third-party software.\\
+		
+		
+		\includegraphics[width=0.7\textwidth]{installation}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Instalar Ubuntu}
+		Seleccionar el teclado correcto. Si no sabes cual es da en \textbf{Detect Keyboard Layout}.\\
+		
+		
+		\includegraphics[width=0.7\textwidth]{keyboard}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Instalar Ubuntu con Windows 10/11}
+		\begin{alertblock}{Cuidado, no dudes en Preguntar}
+			Seleccionar \textbf{Instalar junto con Windows 10/11}.
+		\end{alertblock}
+		
+		\includegraphics[width=0.7\textwidth]{windows-10}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Instalar Ubuntu con Windows 10/11}
+		\begin{alertblock}{Cuidado, no dudes en Preguntar}
+			Mueve el slider de Ubuntu hasta un tamaño adecuado. Recomendado 150-200 Gb.
+		\end{alertblock}
+		
+		\includegraphics[width=0.7\textwidth]{windows-10-2}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Instalar Ubuntu con Windows 10/11}
+		\begin{alertblock}{Cuidado, no dudes en Preguntar}
+			Acepta todos los avisos, sabiendo que lo que se borre será irreversible.
+		\end{alertblock}
+		
+		\includegraphics[width=0.7\textwidth]{windows-10-2}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Acabar de Instalar Ubuntu}
+		Selecciona la zona horaria de Madrid (Suele venir por defecto)
+		.
+		\includegraphics[width=0.7\textwidth]{timezone}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Acabar de Instalar Ubuntu}
+		Crea tu nombre y nombre de usuario. Luego rellena la contraseña.
+		\includegraphics[width=0.7\textwidth]{login}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Reinicia Ubuntu}
+		Cuando este todo instalado te pedirá reiniciar el sistema.
+		\includegraphics[width=0.7\textwidth]{restart}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Ubuntu}
+		Selecciona Ubuntu, y ya puedes usar Ubuntu en nativo.
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Algunos enlaces interesantes}
+		\begin{itemize}
+			\item GNU → https://www.gnu.org/
+			\item FSF → https://www.fsf.org/
+			\item Un blog de Open Source → https://itsfoss.com/
+			\item Un canal de cosas relacionadas con linux → https://www.youtube.com/@TheLinuxEXP
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Menciones especiales}
+		\begin{itemize}
+			\item Gorka Guardiola paurea@gmail.com
+			\item Enrique Soriano enrique.soriano@urjc.es
+		\end{itemize}
+	\end{frame}
+\end{document}
