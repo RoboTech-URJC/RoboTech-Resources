@@ -91,7 +91,7 @@
 	\end{frame}
 
 	\begin{frame}
-		\frametitle{Primeros compandos: date}
+		\frametitle{Primeros comandos: date}
 		\begin{alertblock}{Muestra la hora fecha actual.}
 			date [OPTION]... [+FORMAT]
 		\end{alertblock}
@@ -101,7 +101,7 @@
 	\end{frame}
 	
 	\begin{frame}
-		\frametitle{Primeros compandos: who}
+		\frametitle{Primeros comandos: who}
 		\begin{alertblock}{Muestra los usuarios que están en el sistema.}
 			who [OPTION]...
 		\end{alertblock}
@@ -111,7 +111,7 @@
 	\end{frame}
 	
 	\begin{frame}
-		\frametitle{Primeros compandos: whoami}
+		\frametitle{Primeros comandos: whoami}
 		\begin{alertblock}{Muestra tu nombre de usuario.}
 			whoami [OPTION]...
 		\end{alertblock}
@@ -322,6 +322,20 @@
 		\end{center}
 	\end{frame}
 			
+	\begin{frame}
+		\frametitle{Modificando ficheros: tar (Flags)}
+		\begin{alertblock}{Crea un fichero con múltiples ficheros dentro (comprimidos o no).}
+			tar -czvf [ARCHIVE] [SOURCE]
+		\end{alertblock}
+		Los flags significan:
+		\begin{itemize}
+			\item -c: crea un nuevo archivo.
+			\item -z: comprime usando gzip.
+			\item -v: \textbf{opcional}, lista los ficheros procesados.
+			\item -f: \textbf{siempre el último}, y significa que usa el fichero ARCHIVE.
+		\end{itemize}
+	\end{frame}
+	
 	\begin{frame}
 		\frametitle{Modificando ficheros: tar}
 		\begin{alertblock}{Crea un fichero con múltiples ficheros dentro (comprimidos o no).}
