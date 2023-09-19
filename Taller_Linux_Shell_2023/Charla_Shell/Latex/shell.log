@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.3)  19 SEP 2023 23:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.9.3)  19 SEP 2023 23:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -906,610 +906,621 @@ Package pdftex.def Info: images//robotech.png  used on input line 52.
 
  <./images//twitter.png> <./images//instagram.jpg> <./images//mail.png (PNG cop
 y)>]
-<images//bash.png, id=120, 2115.905pt x 1347.0325pt>
-File: images//bash.png Graphic file (type png)
-<use images//bash.png>
-Package pdftex.def Info: images//bash.png  used on input line 62.
-(pdftex.def)             Requested size: 206.51929pt x 131.4636pt.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 	\end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 62.
+Package pdftex.def Info: images//logo.jpg  used on input line 69.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 62.
+Package pdftex.def Info: images//robotech.png  used on input line 69.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
- [4
+[4
 
- <./images//bash.png>]
-<images//cmd.png, id=150, 2115.905pt x 1347.0325pt>
+]
+<images//cmd.png, id=149, 2115.905pt x 1347.0325pt>
 File: images//cmd.png Graphic file (type png)
 <use images//cmd.png>
-Package pdftex.def Info: images//cmd.png  used on input line 71.
+Package pdftex.def Info: images//cmd.png  used on input line 78.
 (pdftex.def)             Requested size: 206.51929pt x 131.4636pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 71.
+Package pdftex.def Info: images//logo.jpg  used on input line 78.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 71.
+Package pdftex.def Info: images//robotech.png  used on input line 78.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [5
 
  <./images//cmd.png>]
-<images//man.png, id=193, 2115.905pt x 1347.0325pt>
+<images//man.png, id=192, 2115.905pt x 1347.0325pt>
 File: images//man.png Graphic file (type png)
 <use images//man.png>
-Package pdftex.def Info: images//man.png  used on input line 81.
+Package pdftex.def Info: images//man.png  used on input line 88.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 81.
+Package pdftex.def Info: images//logo.jpg  used on input line 88.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 81.
+Package pdftex.def Info: images//robotech.png  used on input line 88.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [6
 
  <./images//man.png>]
-<images//apropos.png, id=230, 2115.905pt x 1347.0325pt>
+<images//apropos.png, id=229, 2115.905pt x 1347.0325pt>
 File: images//apropos.png Graphic file (type png)
 <use images//apropos.png>
-Package pdftex.def Info: images//apropos.png  used on input line 91.
+Package pdftex.def Info: images//apropos.png  used on input line 98.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 91.
+Package pdftex.def Info: images//logo.jpg  used on input line 98.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 91.
+Package pdftex.def Info: images//robotech.png  used on input line 98.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [7
 
  <./images//apropos.png>]
-<images//date.png, id=272, 2115.905pt x 1347.0325pt>
+<images//date.png, id=271, 2115.905pt x 1347.0325pt>
 File: images//date.png Graphic file (type png)
 <use images//date.png>
-Package pdftex.def Info: images//date.png  used on input line 101.
+Package pdftex.def Info: images//date.png  used on input line 108.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 101.
+Package pdftex.def Info: images//logo.jpg  used on input line 108.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 101.
+Package pdftex.def Info: images//robotech.png  used on input line 108.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
- [8
+[8
 
  <./images//date.png>]
-<images//who.png, id=312, 2115.905pt x 1347.0325pt>
+<images//who.png, id=311, 2115.905pt x 1347.0325pt>
 File: images//who.png Graphic file (type png)
 <use images//who.png>
-Package pdftex.def Info: images//who.png  used on input line 111.
+Package pdftex.def Info: images//who.png  used on input line 118.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 111.
+Package pdftex.def Info: images//logo.jpg  used on input line 118.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 111.
+Package pdftex.def Info: images//robotech.png  used on input line 118.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [9
 
  <./images//who.png>]
-<images//whoami.png, id=349, 2115.905pt x 1347.0325pt>
+<images//whoami.png, id=348, 2115.905pt x 1347.0325pt>
 File: images//whoami.png Graphic file (type png)
 <use images//whoami.png>
-Package pdftex.def Info: images//whoami.png  used on input line 121.
+Package pdftex.def Info: images//whoami.png  used on input line 128.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 121.
+Package pdftex.def Info: images//logo.jpg  used on input line 128.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 121.
+Package pdftex.def Info: images//robotech.png  used on input line 128.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [10
 
  <./images//whoami.png>]
-<images//echo.png, id=386, 2115.905pt x 1347.0325pt>
+<images//echo.png, id=385, 2115.905pt x 1347.0325pt>
 File: images//echo.png Graphic file (type png)
 <use images//echo.png>
-Package pdftex.def Info: images//echo.png  used on input line 131.
+Package pdftex.def Info: images//echo.png  used on input line 138.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 131.
+Package pdftex.def Info: images//logo.jpg  used on input line 138.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 131.
+Package pdftex.def Info: images//robotech.png  used on input line 138.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
- [11
+
+[11
 
  <./images//echo.png>]
-<images//tab.png, id=424, 361.35pt x 220.825pt>
+<images//tab.png, id=423, 361.35pt x 220.825pt>
 File: images//tab.png Graphic file (type png)
 <use images//tab.png>
-Package pdftex.def Info: images//tab.png  used on input line 141.
+Package pdftex.def Info: images//tab.png  used on input line 148.
 (pdftex.def)             Requested size: 120.47046pt x 73.6205pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 141.
+Package pdftex.def Info: images//logo.jpg  used on input line 148.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 141.
+Package pdftex.def Info: images//robotech.png  used on input line 148.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [12
 
  <./images//tab.png>]
-<images//keys.png, id=464, 1405.25pt x 983.675pt>
+<images//keys.png, id=463, 1405.25pt x 983.675pt>
 File: images//keys.png Graphic file (type png)
 <use images//keys.png>
-Package pdftex.def Info: images//keys.png  used on input line 153.
+Package pdftex.def Info: images//keys.png  used on input line 160.
 (pdftex.def)             Requested size: 120.47046pt x 84.32422pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 153.
+Package pdftex.def Info: images//logo.jpg  used on input line 160.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 153.
+Package pdftex.def Info: images//robotech.png  used on input line 160.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [13
 
  <./images//keys.png>]
-<images//ls.png, id=501, 2115.905pt x 1347.0325pt>
+<images//ls.png, id=500, 2115.905pt x 1347.0325pt>
 File: images//ls.png Graphic file (type png)
 <use images//ls.png>
-Package pdftex.def Info: images//ls.png  used on input line 163.
+Package pdftex.def Info: images//ls.png  used on input line 170.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 163.
+Package pdftex.def Info: images//logo.jpg  used on input line 170.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 163.
+Package pdftex.def Info: images//robotech.png  used on input line 170.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
- [14
+
+[14
 
  <./images//ls.png>]
-<images//cd.png, id=539, 2115.905pt x 1347.0325pt>
+<images//cd.png, id=538, 2115.905pt x 1347.0325pt>
 File: images//cd.png Graphic file (type png)
 <use images//cd.png>
-Package pdftex.def Info: images//cd.png  used on input line 173.
+Package pdftex.def Info: images//cd.png  used on input line 180.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 173.
+Package pdftex.def Info: images//logo.jpg  used on input line 180.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 173.
+Package pdftex.def Info: images//robotech.png  used on input line 180.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [15
 
  <./images//cd.png>]
-<images//touch.png, id=576, 2115.905pt x 1347.0325pt>
+<images//touch.png, id=575, 2115.905pt x 1347.0325pt>
 File: images//touch.png Graphic file (type png)
 <use images//touch.png>
-Package pdftex.def Info: images//touch.png  used on input line 183.
+Package pdftex.def Info: images//touch.png  used on input line 190.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 183.
+Package pdftex.def Info: images//logo.jpg  used on input line 190.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 183.
+Package pdftex.def Info: images//robotech.png  used on input line 190.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [16
 
  <./images//touch.png>]
-<images//cp.png, id=613, 2115.905pt x 1347.0325pt>
+<images//cp.png, id=612, 2115.905pt x 1347.0325pt>
 File: images//cp.png Graphic file (type png)
 <use images//cp.png>
-Package pdftex.def Info: images//cp.png  used on input line 193.
+Package pdftex.def Info: images//cp.png  used on input line 200.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 193.
+Package pdftex.def Info: images//logo.jpg  used on input line 200.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 193.
+Package pdftex.def Info: images//robotech.png  used on input line 200.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
+
 [17
 
  <./images//cp.png>]
-<images//mv.png, id=650, 2115.905pt x 1347.0325pt>
+<images//mv.png, id=649, 2115.905pt x 1347.0325pt>
 File: images//mv.png Graphic file (type png)
 <use images//mv.png>
-Package pdftex.def Info: images//mv.png  used on input line 203.
+Package pdftex.def Info: images//mv.png  used on input line 210.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 203.
+Package pdftex.def Info: images//logo.jpg  used on input line 210.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 203.
+Package pdftex.def Info: images//robotech.png  used on input line 210.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [18
 
  <./images//mv.png>]
-<images//rm.png, id=688, 2115.905pt x 1347.0325pt>
+<images//rm.png, id=687, 2115.905pt x 1347.0325pt>
 File: images//rm.png Graphic file (type png)
 <use images//rm.png>
-Package pdftex.def Info: images//rm.png  used on input line 213.
+Package pdftex.def Info: images//rm.png  used on input line 220.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 213.
+Package pdftex.def Info: images//logo.jpg  used on input line 220.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 213.
+Package pdftex.def Info: images//robotech.png  used on input line 220.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [19
 
  <./images//rm.png>]
-<images//mkdir.png, id=726, 2115.905pt x 1347.0325pt>
+<images//mkdir.png, id=725, 2115.905pt x 1347.0325pt>
 File: images//mkdir.png Graphic file (type png)
 <use images//mkdir.png>
-Package pdftex.def Info: images//mkdir.png  used on input line 223.
+Package pdftex.def Info: images//mkdir.png  used on input line 230.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 223.
+Package pdftex.def Info: images//logo.jpg  used on input line 230.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 223.
+Package pdftex.def Info: images//robotech.png  used on input line 230.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
 
 [20
 
  <./images//mkdir.png>]
-<images//rmdir.png, id=763, 2115.905pt x 1347.0325pt>
+<images//rmdir.png, id=762, 2115.905pt x 1347.0325pt>
 File: images//rmdir.png Graphic file (type png)
 <use images//rmdir.png>
-Package pdftex.def Info: images//rmdir.png  used on input line 233.
+Package pdftex.def Info: images//rmdir.png  used on input line 240.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 233.
+Package pdftex.def Info: images//logo.jpg  used on input line 240.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 233.
+Package pdftex.def Info: images//robotech.png  used on input line 240.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [21
 
  <./images//rmdir.png>]
-<images//cat.png, id=801, 2115.905pt x 1347.0325pt>
+<images//cat.png, id=800, 2115.905pt x 1347.0325pt>
 File: images//cat.png Graphic file (type png)
 <use images//cat.png>
-Package pdftex.def Info: images//cat.png  used on input line 243.
+Package pdftex.def Info: images//cat.png  used on input line 250.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 243.
+Package pdftex.def Info: images//logo.jpg  used on input line 250.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 243.
+Package pdftex.def Info: images//robotech.png  used on input line 250.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [22
 
  <./images//cat.png>]
-<images//less.png, id=838, 2115.905pt x 1347.0325pt>
+<images//less.png, id=837, 2115.905pt x 1347.0325pt>
 File: images//less.png Graphic file (type png)
 <use images//less.png>
-Package pdftex.def Info: images//less.png  used on input line 253.
+Package pdftex.def Info: images//less.png  used on input line 260.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 253.
+Package pdftex.def Info: images//logo.jpg  used on input line 260.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 253.
+Package pdftex.def Info: images//robotech.png  used on input line 260.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
 
 [23
 
  <./images//less.png>]
-<images//head.png, id=875, 2115.905pt x 1347.0325pt>
+<images//head.png, id=874, 2115.905pt x 1347.0325pt>
 File: images//head.png Graphic file (type png)
 <use images//head.png>
-Package pdftex.def Info: images//head.png  used on input line 263.
+Package pdftex.def Info: images//head.png  used on input line 270.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 263.
+Package pdftex.def Info: images//logo.jpg  used on input line 270.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 263.
+Package pdftex.def Info: images//robotech.png  used on input line 270.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [24
 
  <./images//head.png>]
-<images//tail.png, id=912, 2115.905pt x 1347.0325pt>
+<images//tail.png, id=911, 2115.905pt x 1347.0325pt>
 File: images//tail.png Graphic file (type png)
 <use images//tail.png>
-Package pdftex.def Info: images//tail.png  used on input line 273.
+Package pdftex.def Info: images//tail.png  used on input line 280.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 273.
+Package pdftex.def Info: images//logo.jpg  used on input line 280.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 273.
+Package pdftex.def Info: images//robotech.png  used on input line 280.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [25
 
  <./images//tail.png>]
-<images//file.png, id=954, 2115.905pt x 1347.0325pt>
+<images//file.png, id=953, 2115.905pt x 1347.0325pt>
 File: images//file.png Graphic file (type png)
 <use images//file.png>
-Package pdftex.def Info: images//file.png  used on input line 283.
+Package pdftex.def Info: images//file.png  used on input line 290.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 283.
+Package pdftex.def Info: images//logo.jpg  used on input line 290.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 283.
+Package pdftex.def Info: images//robotech.png  used on input line 290.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
 
 [26
 
  <./images//file.png>]
-<images//grep.png, id=991, 2115.905pt x 1347.0325pt>
+<images//grep.png, id=990, 2115.905pt x 1347.0325pt>
 File: images//grep.png Graphic file (type png)
 <use images//grep.png>
-Package pdftex.def Info: images//grep.png  used on input line 293.
+Package pdftex.def Info: images//grep.png  used on input line 300.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 293.
+Package pdftex.def Info: images//logo.jpg  used on input line 300.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 293.
+Package pdftex.def Info: images//robotech.png  used on input line 300.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [27
 
  <./images//grep.png>]
-<images//sort.png, id=1028, 2115.905pt x 1347.0325pt>
+<images//sort.png, id=1027, 2115.905pt x 1347.0325pt>
 File: images//sort.png Graphic file (type png)
 <use images//sort.png>
-Package pdftex.def Info: images//sort.png  used on input line 303.
+Package pdftex.def Info: images//sort.png  used on input line 310.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 303.
+Package pdftex.def Info: images//logo.jpg  used on input line 310.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 303.
+Package pdftex.def Info: images//robotech.png  used on input line 310.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [28
 
  <./images//sort.png>]
-<images//cmp.png, id=1066, 2115.905pt x 1347.0325pt>
+<images//cmp.png, id=1065, 2115.905pt x 1347.0325pt>
 File: images//cmp.png Graphic file (type png)
 <use images//cmp.png>
-Package pdftex.def Info: images//cmp.png  used on input line 313.
+Package pdftex.def Info: images//cmp.png  used on input line 320.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 313.
+Package pdftex.def Info: images//logo.jpg  used on input line 320.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 313.
+Package pdftex.def Info: images//robotech.png  used on input line 320.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
 
 [29
 
  <./images//cmp.png>]
-<images//diff.png, id=1103, 2115.905pt x 1347.0325pt>
+<images//diff.png, id=1102, 2115.905pt x 1347.0325pt>
 File: images//diff.png Graphic file (type png)
 <use images//diff.png>
-Package pdftex.def Info: images//diff.png  used on input line 323.
+Package pdftex.def Info: images//diff.png  used on input line 330.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 323.
+Package pdftex.def Info: images//logo.jpg  used on input line 330.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 323.
+Package pdftex.def Info: images//robotech.png  used on input line 330.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [30
 
  <./images//diff.png>]
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 337.
+Package pdftex.def Info: images//logo.jpg  used on input line 344.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 337.
+Package pdftex.def Info: images//robotech.png  used on input line 344.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [31
 
 ]
-<images//tar.png, id=1180, 2115.905pt x 1347.0325pt>
+<images//tar.png, id=1179, 2115.905pt x 1347.0325pt>
 File: images//tar.png Graphic file (type png)
 <use images//tar.png>
-Package pdftex.def Info: images//tar.png  used on input line 347.
+Package pdftex.def Info: images//tar.png  used on input line 354.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 347.
+Package pdftex.def Info: images//logo.jpg  used on input line 354.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 347.
+Package pdftex.def Info: images//robotech.png  used on input line 354.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [32
 
  <./images//tar.png>]
-<images//gzip.png, id=1217, 2115.905pt x 1347.0325pt>
+<images//gzip.png, id=1216, 2115.905pt x 1347.0325pt>
 File: images//gzip.png Graphic file (type png)
 <use images//gzip.png>
-Package pdftex.def Info: images//gzip.png  used on input line 357.
+Package pdftex.def Info: images//gzip.png  used on input line 364.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 357.
+Package pdftex.def Info: images//logo.jpg  used on input line 364.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 357.
+Package pdftex.def Info: images//robotech.png  used on input line 364.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [33
 
  <./images//gzip.png>]
-<images//nano.png, id=1254, 2115.905pt x 1347.0325pt>
+<images//nano.png, id=1253, 2115.905pt x 1347.0325pt>
 File: images//nano.png Graphic file (type png)
 <use images//nano.png>
-Package pdftex.def Info: images//nano.png  used on input line 367.
+Package pdftex.def Info: images//nano.png  used on input line 374.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 367.
+Package pdftex.def Info: images//logo.jpg  used on input line 374.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 367.
+Package pdftex.def Info: images//robotech.png  used on input line 374.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [34
 
  <./images//nano.png>]
-<images//vim.png, id=1291, 2115.905pt x 1347.0325pt>
+<images//vim.png, id=1290, 2115.905pt x 1347.0325pt>
 File: images//vim.png Graphic file (type png)
 <use images//vim.png>
-Package pdftex.def Info: images//vim.png  used on input line 377.
+Package pdftex.def Info: images//vim.png  used on input line 384.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 377.
+Package pdftex.def Info: images//logo.jpg  used on input line 384.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 377.
+Package pdftex.def Info: images//robotech.png  used on input line 384.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [35
 
  <./images//vim.png>]
-<images//clear.png, id=1329, 2115.905pt x 1347.0325pt>
+<images//clear.png, id=1328, 2115.905pt x 1347.0325pt>
 File: images//clear.png Graphic file (type png)
 <use images//clear.png>
-Package pdftex.def Info: images//clear.png  used on input line 388.
+Package pdftex.def Info: images//clear.png  used on input line 395.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 388.
+Package pdftex.def Info: images//logo.jpg  used on input line 395.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 388.
+Package pdftex.def Info: images//robotech.png  used on input line 395.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
 
 [36
 
  <./images//clear.png>]
-<images//reset.png, id=1369, 2115.905pt x 1347.0325pt>
+<images//reset.png, id=1368, 2115.905pt x 1347.0325pt>
 File: images//reset.png Graphic file (type png)
 <use images//reset.png>
-Package pdftex.def Info: images//reset.png  used on input line 398.
+Package pdftex.def Info: images//reset.png  used on input line 405.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 398.
+Package pdftex.def Info: images//logo.jpg  used on input line 405.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 398.
+Package pdftex.def Info: images//robotech.png  used on input line 405.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [37
 
  <./images//reset.png>]
-<images//exit.png, id=1410, 2115.905pt x 1347.0325pt>
+<images//exit.png, id=1409, 2115.905pt x 1347.0325pt>
 File: images//exit.png Graphic file (type png)
 <use images//exit.png>
-Package pdftex.def Info: images//exit.png  used on input line 407.
+Package pdftex.def Info: images//exit.png  used on input line 414.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 407.
+Package pdftex.def Info: images//logo.jpg  used on input line 414.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 407.
+Package pdftex.def Info: images//robotech.png  used on input line 414.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [38
 
  <./images//exit.png>]
-<images//alias.png, id=1448, 2115.905pt x 1347.0325pt>
+<images//alias.png, id=1447, 2115.905pt x 1347.0325pt>
 File: images//alias.png Graphic file (type png)
 <use images//alias.png>
-Package pdftex.def Info: images//alias.png  used on input line 417.
+Package pdftex.def Info: images//alias.png  used on input line 424.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 417.
+Package pdftex.def Info: images//logo.jpg  used on input line 424.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 417.
+Package pdftex.def Info: images//robotech.png  used on input line 424.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
 [39
 
  <./images//alias.png>]
-<images//pipes.png, id=1485, 2115.905pt x 1347.0325pt>
+<images//pipes.png, id=1484, 2115.905pt x 1347.0325pt>
 File: images//pipes.png Graphic file (type png)
 <use images//pipes.png>
-Package pdftex.def Info: images//pipes.png  used on input line 427.
+Package pdftex.def Info: images//pipes.png  used on input line 434.
 (pdftex.def)             Requested size: 189.30847pt x 120.5083pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 427.
+Package pdftex.def Info: images//logo.jpg  used on input line 434.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 427.
+Package pdftex.def Info: images//robotech.png  used on input line 434.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [40
 
  <./images//pipes.png>]
-<images//redir.png, id=1525, 2918.905pt x 1608.0075pt>
+<images//redir.png, id=1524, 2918.905pt x 1608.0075pt>
 File: images//redir.png Graphic file (type png)
 <use images//redir.png>
-Package pdftex.def Info: images//redir.png  used on input line 438.
+Package pdftex.def Info: images//redir.png  used on input line 445.
 (pdftex.def)             Requested size: 189.30847pt x 104.2788pt.
 File: images//logo.jpg Graphic file (type jpg)
 <use images//logo.jpg>
-Package pdftex.def Info: images//logo.jpg  used on input line 438.
+Package pdftex.def Info: images//logo.jpg  used on input line 445.
 (pdftex.def)             Requested size: 86.04883pt x 43.7032pt.
 File: images//robotech.png Graphic file (type png)
 <use images//robotech.png>
-Package pdftex.def Info: images//robotech.png  used on input line 438.
+Package pdftex.def Info: images//robotech.png  used on input line 445.
 (pdftex.def)             Requested size: 23.68806pt x 34.52838pt.
  [41
 
@@ -1528,25 +1539,26 @@ Package rerunfilecheck Info: File `shell.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22250 strings out of 480247
- 434754 string characters out of 5896152
- 688805 words of memory out of 5000000
- 39668 multiletter control sequences out of 15000+600000
- 474638 words of font info for 48 fonts, out of 8000000 for 9000
+ 22241 strings out of 480247
+ 434579 string characters out of 5896152
+ 688824 words of memory out of 5000000
+ 39658 multiletter control sequences out of 15000+600000
+ 474977 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  99i,15n,104p,425b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/javier/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1000.60
-0pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sh
-are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on shell.pdf (41 pages, 3347475 bytes).
+ </home/javier/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcsx1000.60
+0pk> </home/javier/.texlive2021/texmf-var/fonts/pk/ljfour/jknappen/ec/tcss1000.
+600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on shell.pdf (41 pages, 3308241 bytes).
 PDF statistics:
- 1610 PDF objects out of 1728 (max. 8388607)
- 1257 compressed objects within 13 object streams
+ 1614 PDF objects out of 1728 (max. 8388607)
+ 1261 compressed objects within 13 object streams
  83 named destinations out of 1000 (max. 500000)
- 1435 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1430 words of extra memory for PDF output out of 10000 (max. 10000000)
 
