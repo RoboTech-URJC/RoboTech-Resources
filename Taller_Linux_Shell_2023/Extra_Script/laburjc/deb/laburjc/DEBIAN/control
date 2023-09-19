@@ -1,0 +1,11 @@
+Package: laburjc
+Version: 1.0-1
+Section: utils
+Priority: optional
+Architecture: all
+Installed-Size: 8048
+Maintainer: Javier Izquierdo <javizqh@gmail.com>
+Homepage: https://github.com/RoboTech-URJC/RoboTech-Resources
+Depends: sshpass
+Description: Connect to URJC labs 
+ Connect automaticaly using ssh to urjc servers

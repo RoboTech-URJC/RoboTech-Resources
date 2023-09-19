@@ -1,0 +1,6 @@
+laburjc (1.0-1) stable; urgency=low
+
+  [ Javier ]
+  * script to connect using ssh to urjc servers
+
+ -- Javier <javizqh@gmail.com>  Tue,  8 Aug 2023 20:30:00 +0100 
